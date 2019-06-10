@@ -1,5 +1,5 @@
 body {
-    background: blueviolet;
+    background: #fefefe;
 }
 
 .mainHeader {
@@ -7,11 +7,18 @@ body {
 }
 
 .sectionHeader {
-    color: #1460AA;
-    background: yellow;
-    font-size: 32px;
+    color:#0033cc;
 }
 
 p {
     color: darkblue;
+}
+
+.link {
+    color: blue;
+}
+
+.h3-class
+{
+    color: #2d5986;
 }
